@@ -13,6 +13,7 @@ The program allows users to:
 
 This project was created using basic Python concepts and is suitable for beginners learning programming.
 
+---
 
 ## Features
 
@@ -23,11 +24,13 @@ This project was created using basic Python concepts and is suitable for beginne
 * Receipt generation
 * Menu-driven interface
 
+---
 
 ## Technologies Used
 
 * Python
 
+---
 
 ## Python Concepts Used
 
@@ -40,6 +43,7 @@ This project was created using basic Python concepts and is suitable for beginne
 * String formatting
 * User input handling
 
+---
 
 ## Sample Coupon Codes
 
@@ -48,6 +52,7 @@ This project was created using basic Python concepts and is suitable for beginne
 | SHOP#20     | 20% Off  |
 | SHOP#25     | 25% Off  |
 
+---
 
 ## Menu Options
 
@@ -56,6 +61,7 @@ This project was created using basic Python concepts and is suitable for beginne
 3. Generate Receipt
 4. Exit
 
+---
 
 ## Learning Outcome
 
@@ -66,8 +72,8 @@ This project helped in understanding:
 * Billing and discount calculation
 * Writing modular programs using functions
 
-
 ---
+
 
 ## Author
 
